@@ -55,7 +55,6 @@
   <div align="left">
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
 <li>📈 <a href="https://github.com/issaniang5/detection-fraude-carte-bancaire" target="_blank"><strong>Détection de Fraude par Carte Bancaire</strong></a>: Un modèle d'apprentissage automatique pour détecter les transactions frauduleuses à l'aide de Python et scikit-learn. Le modèle utilise des techniques telles que les arbres de décision, les forêts aléatoires et le gradient boosting pour identifier les transactions suspectes par carte bancaire.</li>
-
     </ul>
   </div>
 
