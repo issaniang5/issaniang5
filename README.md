@@ -49,7 +49,7 @@
 <div align="center">
   <h4>📊 <strong>Data Science Projects</strong></h4>
   <p align="center">🔍 Analyzing datasets, building machine learning models, and working with data to extract meaningful insights.</p>
-  <div align="center">
+  <div align="left">
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
       <li>📈 <a href="https://github.com/your-username/stock-price-prediction" target="_blank"><strong>Stock Price Prediction</strong></a>: Time series forecasting model to predict future stock prices using Python and scikit-learn.</li>
       <li>🔍 <a href="https://github.com/your-username/customer-segmentation" target="_blank"><strong>Customer Segmentation</strong></a>: Using K-means clustering to segment customers based on their behavior and purchasing patterns.</li>
