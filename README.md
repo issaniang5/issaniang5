@@ -48,7 +48,7 @@
 
 <div align="center">
   <h4>📊 <strong>Data Science Projects</strong></h4>
-  <p align="center">🔍 Analyzing datasets, building machine learning models, and working with data to extract meaningful insights.</p>
+  <h6 align="center">🔍 Analyzing datasets, building machine learning models, and working with data to extract meaningful insights.</h6>
   <div align="left">
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
       <li>📈 <a href="https://github.com/your-username/stock-price-prediction" target="_blank"><strong>Credit Card Fraud Detection</strong></a>: Time series forecasting model to predict future stock prices using Python and scikit-learn.</li>
