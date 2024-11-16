@@ -54,7 +54,8 @@
   <h6 align="center">🔍 Analyzing datasets, building machine learning models, and working with data to extract meaningful insights.</h6>
   <div align="left">
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
-      <li>📈 <a href="https://github.com/your-username/stock-price-prediction" target="_blank"><strong>Credit Card Fraud Detection</strong></a>: Time series forecasting model to predict future stock prices using Python and scikit-learn.</li>
+<li>📈 <a href="https://github.com/your-username/credit-card-fraud-detection" target="_blank"><strong>Credit Card Fraud Detection</strong></a>: A machine learning model to detect fraudulent transactions using Python and scikit-learn. The model uses techniques like decision trees, random forests, and gradient boosting to identify suspicious credit card transactions.</li>
+
     </ul>
   </div>
 
