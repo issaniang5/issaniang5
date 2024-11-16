@@ -51,3 +51,36 @@
 </div>
 
 ###
+
+### 
+
+<h3 align="left">🚀 Projects</h3>
+
+<div align="center">
+  <h4>Data Science Projects</h4>
+  <p>🔍 Analyzing datasets, building machine learning models, and working with data to extract insights.</p>
+  <ul>
+    <li><strong>Stock Price Prediction:</strong> Using time series forecasting to predict future stock prices.</li>
+    <li><strong>Customer Segmentation:</strong> K-means clustering for segmenting customers based on purchasing behavior.</li>
+    <li><strong>Movie Recommendation System:</strong> Building a collaborative filtering recommendation system using Python and TensorFlow.</li>
+  </ul>
+
+  <h4>AI Projects</h4>
+  <p>🤖 Developing intelligent systems using machine learning, deep learning, and natural language processing.</p>
+  <ul>
+    <li><strong>Chatbot Development:</strong> Building a conversational AI for customer support using NLP and Python.</li>
+    <li><strong>Image Classification:</strong> Using Convolutional Neural Networks (CNN) for classifying images with TensorFlow.</li>
+    <li><strong>Speech Recognition System:</strong> Building a speech-to-text system using deep learning and Python libraries like PyTorch.</li>
+  </ul>
+
+  <h4>Full Stack Development Projects</h4>
+  <p>💻 Developing both client-side and server-side parts of web applications.</p>
+  <ul>
+    <li><strong>Task Manager App:</strong> A full-stack web app built with React.js, Node.js, and MongoDB for managing tasks.</li>
+    <li><strong>E-Commerce Platform:</strong> A fully functional e-commerce site built with React, Express, and MongoDB for product listings and shopping cart management.</li>
+    <li><strong>Blog Platform:</strong> A blog platform with authentication, user management, and dynamic post creation using Django and PostgreSQL.</li>
+  </ul>
+</div>
+
+###
+
