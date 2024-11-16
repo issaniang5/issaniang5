@@ -45,7 +45,7 @@
 
 ### 
 
-<hr style="border-top: 1px solid #ccc; margin-top: 40px;"/>
+<hr style="border-top: 0.5px solid #ccc; margin-top: 40px;"/>
 
 <h3 align="left">🚀 Projets</h3>
 
