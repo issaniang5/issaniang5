@@ -44,6 +44,9 @@
 </div>
 
 ### 
+
+<hr style="border-top: 1px solid #ccc; margin-top: 40px;"/>
+
 <h3 align="left">🚀 Projects</h3>
 
 <div align="center">
@@ -57,7 +60,7 @@
 
 </div>
 
-<hr style="border-top: 2px solid #ccc; margin-top: 40px;"/>
+
 
 
 ###
