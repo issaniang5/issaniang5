@@ -55,7 +55,6 @@
   <div align="left">
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
 <li>📈 <a href="https://github.com/your-username/credit-card-fraud-detection" target="_blank"><strong>Credit Card Fraud Detection</strong></a>: A machine learning model to detect fraudulent transactions using Python and scikit-learn. The model uses techniques like decision trees, random forests, and gradient boosting to identify suspicious credit card transactions.</li>
-
     </ul>
   </div>
 
