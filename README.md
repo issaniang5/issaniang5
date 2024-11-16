@@ -52,40 +52,9 @@
 
 ### 
 
-<h3 align="center">🚀 Projects</h3>
-
-<div align="center">
-  <h4>📊 <strong>Data Science Projects</strong></h4>
-  <p align="center">🔍 Analyzing datasets, building machine learning models, and working with data to extract meaningful insights.</p>
-  <div align="center">
-    <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
-      <li>📈 <strong>Stock Price Prediction:</strong> Time series forecasting model to predict future stock prices using Python and scikit-learn.</li>
-      <li>🔍 <strong>Customer Segmentation:</strong> Using K-means clustering to segment customers based on their behavior and purchasing patterns.</li>
-      <li>🎬 <strong>Movie Recommendation System:</strong> Collaborative filtering recommendation system built with TensorFlow and Python for personalized movie recommendations.</li>
-    </ul>
-  </div>
-
-  <h4>🤖 <strong>AI Projects</strong></h4>
-  <p align="center">Developing intelligent systems using machine learning, deep learning, and NLP techniques.</p>
-  <div align="center">
-    <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
-      <li>💬 <strong>AI Chatbot:</strong> A conversational AI chatbot developed with Natural Language Processing (NLP) and TensorFlow for customer support.</li>
-      <li>📷 <strong>Image Classification:</strong> A CNN-based image classification model trained on datasets like CIFAR-10 using TensorFlow.</li>
-      <li>🎤 <strong>Speech Recognition System:</strong> A real-time speech-to-text system built using deep learning and Python libraries like PyTorch and SpeechRecognition.</li>
-    </ul>
-  </div>
-
-  <h4>💻 <strong>Full Stack Development Projects</strong></h4>
-  <p align="center">Building modern web applications with both front-end and back-end technologies.</p>
-  <div align="center">
-    <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
-      <li>📝 <strong>Task Manager App:</strong> A task management app built with React.js (front-end) and Node.js + MongoDB (back-end) for task CRUD operations.</li>
-      <li>🛒 <strong>E-Commerce Platform:</strong> A fully functional e-commerce site built with React, Express, MongoDB, and Stripe for payment processing.</li>
-      <li>✍️ <strong>Blog Platform:</strong> A blogging platform with authentication, dynamic posts, and user management built with Django and PostgreSQL.</li>
-    </ul>
-  </div>
-</div>
 
 <hr style="border-top: 2px solid #ccc; margin-top: 40px;"/>
+
+
 ###
 
