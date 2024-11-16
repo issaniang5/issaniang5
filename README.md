@@ -44,7 +44,7 @@
 </div>
 
 ### 
-<h3 align="center">🚀 Projects</h3>
+<h3 align="left">🚀 Projects</h3>
 
 <div align="center">
   <h4>📊 <strong>Data Science Projects</strong></h4>
