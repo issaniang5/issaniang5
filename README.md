@@ -14,12 +14,12 @@
 
 ###
 
-<h1 align="center">Hello There 👋! I'm Issa Niang </h1>
+<h1 align="center">Bonjour 👋 ! Je suis Issa Niang. </h1>
 
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Langages et outils</h3>
 
 ###
 
@@ -47,14 +47,14 @@
 
 <hr style="border-top: 1px solid #ccc; margin-top: 40px;"/>
 
-<h3 align="left">🚀 Projects</h3>
+<h3 align="left">🚀 Projets</h3>
 
 <div align="center">
-  <h4>📊 <strong>Data Science Projects</strong></h4>
-  <h6 align="center">🔍 Analyzing datasets, building machine learning models, and working with data to extract meaningful insights.</h6>
+  <h4>📊 <strong>Projets en Science des Données</strong></h4>
+  <h6 align="center">🔍 Analyser des ensembles de données, créer des modèles d'apprentissage automatique et travailler avec les données pour en extraire des informations significatives.</h6>
   <div align="left">
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
-<li>📈 <a href="https://github.com/your-username/credit-card-fraud-detection" target="_blank"><strong>Credit Card Fraud Detection</strong></a>: A machine learning model to detect fraudulent transactions using Python and scikit-learn. The model uses techniques like decision trees, random forests, and gradient boosting to identify suspicious credit card transactions.</li>
+<li>📈 <a href="https://github.com/your-username/credit-card-fraud-detection" target="_blank"><strong>Détection de Fraude par Carte Bancaire</strong></a>: Un modèle d'apprentissage automatique pour détecter les transactions frauduleuses à l'aide de Python et scikit-learn. Le modèle utilise des techniques telles que les arbres de décision, les forêts aléatoires et le gradient boosting pour identifier les transactions suspectes par carte bancaire.</li>
     </ul>
   </div>
 
