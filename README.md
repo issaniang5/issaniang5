@@ -50,37 +50,42 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
-###
-
 ### 
 
-<h3 align="left">🚀 Projects</h3>
+<h3 align="center">🚀 Projects</h3>
 
 <div align="center">
-  <h4>Data Science Projects</h4>
-  <p>🔍 Analyzing datasets, building machine learning models, and working with data to extract insights.</p>
-  <ul>
-    <li><strong>Stock Price Prediction:</strong> Using time series forecasting to predict future stock prices.</li>
-    <li><strong>Customer Segmentation:</strong> K-means clustering for segmenting customers based on purchasing behavior.</li>
-    <li><strong>Movie Recommendation System:</strong> Building a collaborative filtering recommendation system using Python and TensorFlow.</li>
-  </ul>
+  <h4>📊 <strong>Data Science Projects</strong></h4>
+  <p align="center">🔍 Analyzing datasets, building machine learning models, and working with data to extract meaningful insights.</p>
+  <div align="center">
+    <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
+      <li>📈 <strong>Stock Price Prediction:</strong> Time series forecasting model to predict future stock prices using Python and scikit-learn.</li>
+      <li>🔍 <strong>Customer Segmentation:</strong> Using K-means clustering to segment customers based on their behavior and purchasing patterns.</li>
+      <li>🎬 <strong>Movie Recommendation System:</strong> Collaborative filtering recommendation system built with TensorFlow and Python for personalized movie recommendations.</li>
+    </ul>
+  </div>
 
-  <h4>AI Projects</h4>
-  <p>🤖 Developing intelligent systems using machine learning, deep learning, and natural language processing.</p>
-  <ul>
-    <li><strong>Chatbot Development:</strong> Building a conversational AI for customer support using NLP and Python.</li>
-    <li><strong>Image Classification:</strong> Using Convolutional Neural Networks (CNN) for classifying images with TensorFlow.</li>
-    <li><strong>Speech Recognition System:</strong> Building a speech-to-text system using deep learning and Python libraries like PyTorch.</li>
-  </ul>
+  <h4>🤖 <strong>AI Projects</strong></h4>
+  <p align="center">Developing intelligent systems using machine learning, deep learning, and NLP techniques.</p>
+  <div align="center">
+    <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
+      <li>💬 <strong>AI Chatbot:</strong> A conversational AI chatbot developed with Natural Language Processing (NLP) and TensorFlow for customer support.</li>
+      <li>📷 <strong>Image Classification:</strong> A CNN-based image classification model trained on datasets like CIFAR-10 using TensorFlow.</li>
+      <li>🎤 <strong>Speech Recognition System:</strong> A real-time speech-to-text system built using deep learning and Python libraries like PyTorch and SpeechRecognition.</li>
+    </ul>
+  </div>
 
-  <h4>Full Stack Development Projects</h4>
-  <p>💻 Developing both client-side and server-side parts of web applications.</p>
-  <ul>
-    <li><strong>Task Manager App:</strong> A full-stack web app built with React.js, Node.js, and MongoDB for managing tasks.</li>
-    <li><strong>E-Commerce Platform:</strong> A fully functional e-commerce site built with React, Express, and MongoDB for product listings and shopping cart management.</li>
-    <li><strong>Blog Platform:</strong> A blog platform with authentication, user management, and dynamic post creation using Django and PostgreSQL.</li>
-  </ul>
+  <h4>💻 <strong>Full Stack Development Projects</strong></h4>
+  <p align="center">Building modern web applications with both front-end and back-end technologies.</p>
+  <div align="center">
+    <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
+      <li>📝 <strong>Task Manager App:</strong> A task management app built with React.js (front-end) and Node.js + MongoDB (back-end) for task CRUD operations.</li>
+      <li>🛒 <strong>E-Commerce Platform:</strong> A fully functional e-commerce site built with React, Express, MongoDB, and Stripe for payment processing.</li>
+      <li>✍️ <strong>Blog Platform:</strong> A blogging platform with authentication, dynamic posts, and user management built with Django and PostgreSQL.</li>
+    </ul>
+  </div>
 </div>
 
+<hr style="border-top: 2px solid #ccc; margin-top: 40px;"/>
 ###
 
