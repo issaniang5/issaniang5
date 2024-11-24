@@ -56,10 +56,11 @@
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
       <li>📈 <a href="https://github.com/issaniang5/detection-fraude-carte-bancaire" target="_blank"><strong>Détection de Fraude par Carte Bancaire</strong></a>: Un modèle d'apprentissage automatique pour détecter les transactions frauduleuses à l'aide de Python et scikit-learn. Le modèle utilise des techniques telles que les arbres de décision, les forêts aléatoires et le gradient boosting pour identifier les transactions suspectes par carte bancaire.</li>
       <li>📊 <a href="https://github.com/issaniang5/Analyse-Personnalite-Clients" target="_blank"><strong>Analyse de Personnalité des Clients</strong></a>: Un projet d'analyse de données pour identifier les traits de personnalité des clients à partir de leurs interactions, en utilisant des algorithmes de classification et des méthodes statistiques pour mieux comprendre leurs comportements d'achat et leurs préférences.</li>
-      <li>📊 <a href="[https://github.com/yourusername/Analyseur-de-sentiments-sur-X](https://github.com/issaniang5/Analyseur-de-sentiments-sur-X)" target="_blank"><strong>Analyseur de Sentiments sur X</strong></a>: Un projet d'analyse des sentiments des tweets en utilisant des modèles d'apprentissage automatique pour prédire si un tweet est positif, négatif ou neutre. Ce projet utilise des bibliothèques comme NLTK, scikit-learn et WordCloud pour le traitement et l'analyse des données textuelles.</li>
+      <li>📊 <a href="https://github.com/issaniang5/Analyseur-de-sentiments-sur-X" target="_blank"><strong>Analyseur de Sentiments sur X</strong></a>: Un projet d'analyse des sentiments des tweets en utilisant des modèles d'apprentissage automatique pour prédire si un tweet est positif, négatif ou neutre. Ce projet utilise des bibliothèques comme NLTK, scikit-learn et WordCloud pour le traitement et l'analyse des données textuelles.</li>
     </ul>
   </div>
 </div>
+
 
 
 
