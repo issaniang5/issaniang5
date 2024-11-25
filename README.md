@@ -58,9 +58,11 @@
       <li>📊 <a href="https://github.com/issaniang5/Analyse-Personnalite-Clients" target="_blank"><strong>Analyse de Personnalité des Clients</strong></a>: Un projet d'analyse de données pour identifier les traits de personnalité des clients à partir de leurs interactions, en utilisant des algorithmes de classification et des méthodes statistiques pour mieux comprendre leurs comportements d'achat et leurs préférences.</li>
       <li>📊 <a href="https://github.com/issaniang5/Analyseur-de-sentiments-sur-X" target="_blank"><strong>Analyseur de Sentiments sur X</strong></a>: Un projet d'analyse des sentiments des tweets en utilisant des modèles d'apprentissage automatique pour prédire si un tweet est positif, négatif ou neutre. Ce projet utilise des bibliothèques comme NLTK, scikit-learn et WordCloud pour le traitement et l'analyse des données textuelles.</li>
       <li>📊 <a href="https://github.com/issaniang5/Prediction-des-Troubles-du-Sommeil" target="_blank"><strong>Prédiction des Troubles du Sommeil</strong></a>: Un modèle de classification pour prédire les troubles du sommeil en utilisant des algorithmes d'apprentissage automatique tels que les arbres de décision et les forêts aléatoires. Ce projet analyse les facteurs influençant les troubles du sommeil, comme le sexe, l'IMC et les habitudes de travail.</li>
+      <li>🏠 <a href="https://github.com/issaniang5/Prediction-des-Prix-de-Maison" target="_blank"><strong>Prédiction des Prix de Maison</strong></a>: Un projet de régression pour prédire les prix des maisons en utilisant des techniques d'apprentissage automatique telles que la régression linéaire, les forêts aléatoires et le gradient boosting. Ce projet se base sur des facteurs comme la taille de la maison, le nombre de chambres, et la localisation pour prédire les prix de vente.</li>
     </ul>
   </div>
 </div>
+
 
 
 
