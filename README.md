@@ -51,7 +51,7 @@
 
 <div align="center">
   <h4>🤖 <strong>Projets en Intelligence Artificielle</strong></h4>
-  <h6 align="center">🔍 Détection d'objets et d'images à l'aide d'algorithmes d'intelligence artificielle pour extraire des informations à partir des données visuelles.</h6>
+  <h6 align="center">🔍 Les projets en IA se concentrent sur l'utilisation de ces technologies de pointe pour relever les défis du monde réel</h6>
   <div align="left">
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
       <li>📊 <a href="https://github.com/issaniang5/detection-objets-ai" target="_blank"><strong>Détection d'Objets par IA</strong></a>: Un projet d'intelligence artificielle utilisant des réseaux de neurones convolutifs (CNN) pour détecter des objets dans des images ou des vidéos en temps réel. Ce modèle est alimenté par la bibliothèque ML5.js, permettant une détection d'objets sur le Web.</li>
