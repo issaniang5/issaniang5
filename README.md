@@ -22,7 +22,7 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" height="40" alt="ruby logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" height="40" alt="Pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
