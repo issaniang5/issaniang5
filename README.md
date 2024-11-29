@@ -56,9 +56,11 @@
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
       <li>📊 <a href="https://github.com/issaniang5/detection-objets-ai" target="_blank"><strong>Détection d'Objets par IA</strong></a>: Un projet d'intelligence artificielle utilisant des réseaux de neurones convolutifs (CNN) pour détecter des objets dans des images ou des vidéos en temps réel. Ce modèle est alimenté par la bibliothèque ML5.js, permettant une détection d'objets sur le Web.</li>
       <li>✍️ <a href="https://github.com/your-repository-link" target="_blank"><strong>Reconnaissance de Chiffres Manuscrits par IA</strong></a>: Un projet utilisant des réseaux de neurones pour reconnaître et classifier les chiffres manuscrits (ex. : le jeu de données MNIST) à l'aide de bibliothèques telles que TensorFlow et Keras.</li>
+      <li>🖼️ <a href="https://github.com/your-repository-link" target="_blank"><strong>Conversion Image en Texte avec IA</strong></a>: Un projet qui utilise des modèles d'intelligence artificielle pour convertir des images contenant du texte en texte brut, facilitant ainsi l'extraction d'informations à partir d'images.</li>
     </ul>
   </div>
 </div>
+
 
 
 <div align="center">
