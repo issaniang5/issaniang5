@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="go logo"  />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
@@ -32,10 +32,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" height="40" alt="Matplotlib logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="40" alt="docker logo"  />
 </div>
+
+
 
 ### 
 
