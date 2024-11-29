@@ -18,7 +18,7 @@
 <div align="center">
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" height="40" alt="keras logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" height="40" alt="ruby logo"  />
   <img width="12" />
