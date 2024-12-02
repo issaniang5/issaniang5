@@ -8,7 +8,7 @@
 
 <h1 align="center">Bonjour 👋,</h1>
 
-<p align="center">
+<p align="left">
 
 Je m'appelle Issa et depuis mon plus jeune âge, j’ai toujours été fasciné par le monde de l’informatique. À l'époque, je passais de nombreuses heures à la bibliothèque municipale à dévorer des livres sur les ordinateurs et je me rendais chez les copains pour utiliser leur Amstrad 464 avec cassette. J'ai reçu mon premier ordinateur en 1992, un Commodore, où j'ai commencé à réaliser mon premier programme en GPascal. En 1995, j'ai obtenu mon premier PC, un 286 que j'ai monté à partir de pièces recyclées que ma mère avait récupérées au travail. C’est à ce moment-là que j’ai commencé à développer mes premières applications et jeux en QBasic sous MS-DOS.
 
