@@ -95,7 +95,7 @@ Mon expérience internationale m'a permis de cultiver une grande adaptabilité e
   <h6 align="center">🔍 Ces projets couvrent à la fois le front-end et le back-end pour créer des applications web complètes et fonctionnelles.</h6>
   <div align="left">
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
-      <li>🍕 <a href="https://github.com/issaniang5/Application-Livraison-De-Nourriture" target="_blank"><strong>Application Livraison de Nourriture</strong></a>: Une application full stack de livraison de nourriture, permettant aux utilisateurs de commander des repas en ligne, de suivre leurs livraisons, et d'effectuer des paiements sécurisés. Ce projet utilise React pour le front-end et Node.js/Express avec MongoDB pour le back-end.</li>
+      <li>🍕 <a href="https://github.com/issaniang5/Application-Livraison-De-Nourriture" target="_blank"><strong>Application Livraison de Nourriture</strong></a>: Une application full stack de livraison de nourriture qui permet aux utilisateurs de commander des repas en ligne. Ce projet utilise React pour le front-end et Node.js/Express avec MongoDB pour le back-end.</li>
     </ul>
   </div>
 </div>
