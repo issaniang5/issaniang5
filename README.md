@@ -19,13 +19,6 @@ internationale m'a permis de cultiver une grande adaptabilité et une ouverture 
 </p>
 
 
-<p align="center"> 
-  
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=issaniang5&theme=dark&show_icons=true)
-
-</p>
-
-
 
 
 ###
