@@ -10,12 +10,7 @@
 
 <p align="center">
 
-Je m'appelle Issa et depuis mon plus jeune âge, j’ai toujours été fasciné par le monde de l’informatique. À l'époque, je passais de nombreuses heures à la bibliothèque municipale à dévorer des livres sur les ordinateurs et je me rendais chez les copains pour utiliser leur Amstrad 464 avec cassette. J'ai reçu mon premier ordinateur en 1992, un Commodore, où j'ai commencé à réaliser mon premier programme en GPascal. En 1995, j'ai obtenu mon premier PC, un 286 que j'ai monté à partir de pièces recyclées que ma mère avait récupérées au travail. C’est à ce moment-là que j’ai commencé à développer mes premières applications et jeux en QBasic sous MS-DOS.
-
-Je dois dire que cette passion ne m’a jamais quitté et que je n’ai jamais cessé d'apprendre. J’éprouve une grande satisfaction à découvrir de nouveaux langages et de nouveaux algorithmes. Aujourd'hui encore, je suis captivé par le machine learning et le deep learning, des technologies qui combinent les domaines qui me passionnent le plus : les mathématiques, les algorithmes et l'apprentissage. Cela m'a conduit à reprendre mes études 20 ans après l’obtention de mon diplôme d’ingénieur pour un master en sciences informatiques, suivi d'un autre master en intelligence artificielle et deep learning.
-
-Au cours des 25 dernières années, j'ai eu l'opportunité de travailler dans des environnements culturels et professionnels variés (France, Sénégal, États-Unis, Angleterre, Afrique du Sud, Guyane), développant ainsi une expertise dans les secteurs des télécoms, de l'aéronautique, du spatial et de l'éducation.
-Mon expérience internationale m'a permis de cultiver une grande adaptabilité et une ouverture d'esprit.
+Je m'appelle Issa et depuis mon plus jeune âge, j’ai toujours été fasciné par le monde de l’informatique. J'ai eu l'opportunité de travailler dans des environnements culturels et professionnels variés (France, Sénégal, États-Unis, Angleterre, Afrique du Sud, Guyane). Mon expérience internationale m'a permis de cultiver une grande adaptabilité et une ouverture d'esprit.
 
 </p>
 
