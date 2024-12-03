@@ -9,6 +9,7 @@
 <h1 align="center">Bonjour 👋,</h1>
 
 <p align="center">
+<h3 align="left">👩‍💻  About Me</h3>
 
 Je m'appelle Issa et depuis mon plus jeune âge, j’ai toujours été fasciné par le monde de l’informatique. J'ai eu l'opportunité de travailler
 dans des environnements culturels et professionnels variés (France, Sénégal, États-Unis, Angleterre, Afrique du Sud, Guyane). Mon expérience
