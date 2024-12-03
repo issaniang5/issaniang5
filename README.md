@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Bonjour 👋,</h1>
+<h1 align="center">Bonjour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,</h1>
 
 <p align="center">
   
@@ -18,14 +18,6 @@ internationale m'a permis de cultiver une grande adaptabilité et une ouverture 
 
 </p>
 
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=issaniang5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 
 
 ###
