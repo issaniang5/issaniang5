@@ -10,7 +10,9 @@
 
 <p align="center">
 
-Je m'appelle Issa et depuis mon plus jeune âge, j’ai toujours été fasciné par le monde de l’informatique. J'ai eu l'opportunité de travailler dans des environnements culturels et professionnels variés (France, Sénégal, États-Unis, Angleterre, Afrique du Sud, Guyane). Mon expérience internationale m'a permis de cultiver une grande adaptabilité et une ouverture d'esprit.
+Je m'appelle Issa et depuis mon plus jeune âge, j’ai toujours été fasciné par le monde de l’informatique. J'ai eu l'opportunité de travailler
+dans des environnements culturels et professionnels variés (France, Sénégal, États-Unis, Angleterre, Afrique du Sud, Guyane). Mon expérience
+internationale m'a permis de cultiver une grande adaptabilité et une ouverture d'esprit.
 
 </p>
 
