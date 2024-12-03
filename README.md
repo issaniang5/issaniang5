@@ -19,15 +19,14 @@ internationale m'a permis de cultiver une grande adaptabilité et une ouverture 
 </p>
 
 
-<img width="10" />
+<img width="6" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
-<img width="10" />
+<img width="6" />
 
 
 ###
