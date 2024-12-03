@@ -19,16 +19,6 @@ internationale m'a permis de cultiver une grande adaptabilité et une ouverture 
 </p>
 
 
-<img width="6" />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-
-<img width="6" />
-
-
 ###
 
 <h3 align="left">🛠 Langages et outils</h3>
