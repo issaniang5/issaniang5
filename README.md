@@ -91,9 +91,12 @@ internationale m'a permis de cultiver une grande adaptabilité et une ouverture 
   <div align="left">
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
       <li>🍕 <a href="https://github.com/issaniang5/Application-Livraison-De-Nourriture" target="_blank"><strong>Application Livraison de Nourriture</strong></a>: Une application full stack de livraison de nourriture qui permet aux utilisateurs de commander des repas en ligne. Ce projet utilise React pour le front-end et Node.js/Express avec MongoDB pour le back-end.</li>
+      <li>🚗 <a href="https://github.com/issaniang5/Location-de-Voitures-MERN" target="_blank"><strong>Location de Voitures MERN</strong></a>: Une application MERN stack pour la location de voitures, permettant aux utilisateurs de réserver des voitures en ligne. Ce projet utilise React pour le front-end et Node.js/Express avec MongoDB pour le back-end.</li>
+      <li>🌤️ <a href="https://github.com/issaniang5/Application-meteo-MERN" target="_blank"><strong>Application Météo MERN</strong></a>: Une application full stack qui permet aux utilisateurs de consulter la météo en temps réel en fonction de leur localisation. Ce projet utilise React pour le front-end et Node.js/Express avec OpenWeather API pour le back-end.</li>
     </ul>
   </div>
 </div>
+
 
 
 </div>
