@@ -20,33 +20,6 @@ internationale m'a permis de cultiver une grande adaptabilité et une ouverture 
 
 
 
-###
-
-<h3 align="left">🛠 Langages et outils</h3>
-
-###
-
-<div align="center">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" height="40" alt="keras logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" height="40" alt="Pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" height="40" alt="node logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/React.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" height="40" alt="Matplotlib logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="40" alt="docker logo"  />
-</div>
 
 ### 
 
@@ -132,6 +105,33 @@ internationale m'a permis de cultiver une grande adaptabilité et une ouverture 
       <li>🎓 <a href="https://github.com/issaniang5/Application-de-Gestion-des-Etudiants" target="_blank"><strong>Application de Gestion des Étudiants</strong></a>: Une application full stack de gestion des étudiants qui permet de suivre les informations académiques et personnelles des étudiants. Ce projet utilise React pour le front-end et Node.js/Express avec MongoDB pour le back-end.</li>
     </ul>
   </div>
+</div>
+
+
+<h3 align="left">🛠 Langages et outils</h3>
+
+###
+
+<div align="center">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow logo"  />
+  <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" height="40" alt="keras logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" height="40" alt="Pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" height="40" alt="node logo"  />
+  <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/React.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" height="40" alt="Matplotlib logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="40" alt="docker logo"  />
 </div>
 
 
