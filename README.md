@@ -30,7 +30,7 @@ internationale m'a permis de cultiver une grande adaptabilité et une ouverture 
 
 <div align="left">
   <h4>🤖 <strong>Projets en Intelligence Artificielle</strong></h4>
-  <h6 align="left">🔍 Les projets en IA se concentrent sur l'utilisation de ces technologies de pointe pour relever les défis du monde réel </h6>
+  <h6 align="left"> Les projets en IA se concentrent sur l'utilisation de ces technologies de pointe pour relever les défis du monde réel 🔍 </h6>
   <div align="left">
   <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
       <details>
@@ -79,7 +79,7 @@ internationale m'a permis de cultiver une grande adaptabilité et une ouverture 
 
 <div align="left">
   <h4>📊 <strong>Projets en Science des Données</strong></h4>
-  <h6 align="left">🔍 Analyser des données, créer des modèles d’apprentissage automatique et en extraire des informations utiles. </h6>
+  <h6 align="left"> Analyser des données, créer des modèles d’apprentissage automatique et en extraire des informations utiles. 🔍 </h6>
   <div align="left">
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
       <details>
@@ -138,7 +138,7 @@ internationale m'a permis de cultiver une grande adaptabilité et une ouverture 
 
 <div align="left">
   <h4>💻 <strong>Projets Full Stack</strong></h4>
-  <h6 align="left">🔍 Ces projets couvrent à la fois le front-end et le back-end pour créer des applications web complètes et fonctionnelles.</h6>
+  <h6 align="left"> Ces projets couvrent à la fois le front-end et le back-end pour créer des applications web complètes et fonctionnelles. 🔍</h6>
   <div align="left">
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
       <details>
