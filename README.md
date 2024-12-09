@@ -107,7 +107,7 @@ internationale m'a permis de cultiver une grande adaptabilité et une ouverture 
   </div>
 </div>
 
-<hr />
+
 
 ###
 
