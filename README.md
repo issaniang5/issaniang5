@@ -89,7 +89,16 @@ internationale m'a permis de cultiver une grande adaptabilité et une ouverture 
       Un projet qui utilise des modèles d'intelligence artificielle pour convertir des images contenant du texte en texte brut, facilitant ainsi l'extraction d'informations à partir d'images.
         </samp>
       </details> 
-      <li>💬 <a href="https://github.com/issaniang5/ChatbotIA" target="_blank"><strong>ChatbotIA</strong></a>: Un projet de chatbot basé sur l'IA qui utilise des modèles de traitement du langage naturel pour fournir des réponses et mener des conversations avec les utilisateurs de manière autonome.</li>
+    <details>
+      <summary> 💬
+        <a href="https://github.com/issaniang5/ChatbotIA" target="_blank">
+          <strong>ChatbotIA</strong>
+        </a> 
+      </summary>
+      <samp>
+        Un projet de chatbot basé sur l'IA qui utilise des modèles de traitement du langage naturel pour fournir des réponses et mener des conversations avec les utilisateurs de manière autonome.
+      </samp>
+    </details>
     </ul>
   </div>
 </div>
