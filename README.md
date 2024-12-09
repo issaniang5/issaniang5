@@ -25,12 +25,12 @@ internationale m'a permis de cultiver une grande adaptabilité et une ouverture 
 
 <hr />
 
-<h3 align="left">🚀 Projets</h3>
+<h3 align="center">🚀 Projets</h3>
 
 
-<div align="center">
+<div align="left">
   <h4>🤖 <strong>Projets en Intelligence Artificielle</strong></h4>
-  <h6 align="center">🔍 Les projets en IA se concentrent sur l'utilisation de ces technologies de pointe pour relever les défis du monde réel </h6>
+  <h6 align="left">🔍 Les projets en IA se concentrent sur l'utilisation de ces technologies de pointe pour relever les défis du monde réel </h6>
   <div align="left">
   <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
       <details>
