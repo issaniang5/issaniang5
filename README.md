@@ -79,7 +79,7 @@ internationale m'a permis de cultiver une grande adaptabilité et une ouverture 
 
 <div align="center">
   <h4>📊 <strong>Projets en Science des Données</strong></h4>
-  <h6 align="center">🔍 Analyser des ensembles de données, créer des modèles d'apprentissage automatique et travailler avec les données pour en extraire des informations significatives.</h6>
+  <h6 align="center">🔍 Analyser des données, créer des modèles d’apprentissage automatique et en extraire des informations utiles.</h6>
   <div align="left">
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
       <details>
