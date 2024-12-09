@@ -25,7 +25,7 @@ internationale m'a permis de cultiver une grande adaptabilité et une ouverture 
 
 <hr />
 
-<h3 align="center">🚀 Projets</h3>
+<h3 align="left">🚀 Projets</h3>
 
 
 <div align="left">
