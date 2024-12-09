@@ -28,84 +28,113 @@ internationale m'a permis de cultiver une grande adaptabilité et une ouverture 
 <h3 align="left">🚀 Projets</h3>
 
 <div align="center">
-  <h4>🤖 <strong>Projets en Intelligence Artificielle</strong></h4>
-  <h6 align="center">🔍 Les projets en IA se concentrent sur l'utilisation de ces technologies de pointe pour relever les défis du monde réel</h6>
-  <div align="left">
-  <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
-      <details>
-        <summary> 📊 
-          <a href="https://github.com/issaniang5/detection-objets-ai" target="_blank">
-            <strong>Détection d'Objets par IA</strong>
-          </a> 
-        </summary>
-        <samp>
-          Un projet d'intelligence artificielle utilisant des réseaux de neurones convolutifs (CNN) pour détecter des objets dans des images ou des vidéos en temps réel. Ce modèle est alimenté par la bibliothèque ML5.js, permettant une détection d'objets sur le Web.
-        </samp>
-      </details>
-     <details>
-      <summary>  ✍️
-        <a href="https://github.com/your-repository-link" target="_blank">
-          <strong>Reconnaissance de Chiffres Manuscrits par IA</strong>
-        </a>
-      </summary>
-       <samp>
-       Un projet utilisant des réseaux de neurones pour reconnaître et classifier les chiffres manuscrits (ex. : le jeu de données MNIST) à l'aide de bibliothèques telles que TensorFlow et Keras.
-       </samp>
-     </details>
-      <details>
-    <summary> 🖼️ 
-      <a href="https://github.com/your-repository-link" target="_blank">
-        <strong>Conversion Image en Texte avec IA</strong>
-      </a>
-      </summary>
-      <samp>
-      Un projet qui utilise des modèles d'intelligence artificielle pour convertir des images contenant du texte en texte brut, facilitant ainsi l'extraction d'informations à partir d'images.
-        </samp>
-      </details> 
-    <details>
-      <summary> 💬
-        <a href="https://github.com/issaniang5/ChatbotIA" target="_blank">
-          <strong>ChatbotIA</strong>
-        </a> 
-      </summary>
-      <samp>
-        Un projet de chatbot basé sur l'IA qui utilise des modèles de traitement du langage naturel pour fournir des réponses et mener des conversations avec les utilisateurs de manière autonome.
-      </samp>
-    </details>
-    </ul>
-  </div>
-</div>
-
-
-
-
-<div align="center">
   <h4>📊 <strong>Projets en Science des Données</strong></h4>
   <h6 align="center">🔍 Analyser des ensembles de données, créer des modèles d'apprentissage automatique et travailler avec les données pour en extraire des informations significatives.</h6>
   <div align="left">
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
-      <li>📈 <a href="https://github.com/issaniang5/detection-fraude-carte-bancaire" target="_blank"><strong>Détection de Fraude par Carte Bancaire</strong></a>: Un modèle d'apprentissage automatique pour détecter les transactions frauduleuses à l'aide de Python et scikit-learn. Le modèle utilise des techniques telles que les arbres de décision, les forêts aléatoires et le gradient boosting pour identifier les transactions suspectes par carte bancaire.</li>
-      <li>📊 <a href="https://github.com/issaniang5/Analyse-Personnalite-Clients" target="_blank"><strong>Analyse de Personnalité des Clients</strong></a>: Un projet d'analyse de données pour identifier les traits de personnalité des clients à partir de leurs interactions, en utilisant des algorithmes de classification et des méthodes statistiques pour mieux comprendre leurs comportements d'achat et leurs préférences.</li>
-      <li>📊 <a href="https://github.com/issaniang5/Analyseur-de-sentiments-sur-X" target="_blank"><strong>Analyseur de Sentiments sur X</strong></a>: Un projet d'analyse des sentiments des tweets en utilisant des modèles d'apprentissage automatique pour prédire si un tweet est positif, négatif ou neutre. Ce projet utilise des bibliothèques comme NLTK, scikit-learn et WordCloud pour le traitement et l'analyse des données textuelles.</li>
-      <li>📊 <a href="https://github.com/issaniang5/Prediction-des-Troubles-du-Sommeil" target="_blank"><strong>Prédiction des Troubles du Sommeil</strong></a>: Un modèle de classification pour prédire les troubles du sommeil en utilisant des algorithmes d'apprentissage automatique tels que les arbres de décision et les forêts aléatoires. Ce projet analyse les facteurs influençant les troubles du sommeil, comme le sexe, l'IMC et les habitudes de travail.</li>
-      <li>🏠 <a href="https://github.com/issaniang5/Prediction-des-Prix-de-Maison" target="_blank"><strong>Prédiction des Prix de Maison</strong></a>: Un projet de régression pour prédire les prix des maisons en utilisant des techniques d'apprentissage automatique telles que la régression linéaire, les forêts aléatoires et le gradient boosting. Ce projet se base sur des facteurs comme la taille de la maison, le nombre de chambres, et la localisation pour prédire les prix de vente.</li>
+      <details>
+        <summary>📈 
+          <a href="https://github.com/issaniang5/detection-fraude-carte-bancaire" target="_blank">
+            <strong>Détection de Fraude par Carte Bancaire</strong>
+          </a>
+        </summary>
+        <samp>
+          Un modèle d'apprentissage automatique pour détecter les transactions frauduleuses à l'aide de Python et scikit-learn. Le modèle utilise des techniques telles que les arbres de décision, les forêts aléatoires et le gradient boosting pour identifier les transactions suspectes.
+        </samp>
+      </details>
+      <details>
+        <summary>📊 
+          <a href="https://github.com/issaniang5/Analyse-Personnalite-Clients" target="_blank">
+            <strong>Analyse de Personnalité des Clients</strong>
+          </a>
+        </summary>
+        <samp>
+          Un projet d'analyse de données pour identifier les traits de personnalité des clients à partir de leurs interactions, en utilisant des algorithmes de classification et des méthodes statistiques pour mieux comprendre leurs comportements d'achat.
+        </samp>
+      </details>
+      <details>
+        <summary>📊 
+          <a href="https://github.com/issaniang5/Analyseur-de-sentiments-sur-X" target="_blank">
+            <strong>Analyseur de Sentiments sur X</strong>
+          </a>
+        </summary>
+        <samp>
+          Un projet d'analyse des sentiments des tweets en utilisant des modèles d'apprentissage automatique pour prédire si un tweet est positif, négatif ou neutre.
+        </samp>
+      </details>
+      <details>
+        <summary>📊 
+          <a href="https://github.com/issaniang5/Prediction-des-Troubles-du-Sommeil" target="_blank">
+            <strong>Prédiction des Troubles du Sommeil</strong>
+          </a>
+        </summary>
+        <samp>
+          Un modèle de classification pour prédire les troubles du sommeil en analysant des facteurs tels que le sexe, l'IMC et les habitudes de travail à l'aide d'algorithmes comme les arbres de décision.
+        </samp>
+      </details>
+      <details>
+        <summary>🏠 
+          <a href="https://github.com/issaniang5/Prediction-des-Prix-de-Maison" target="_blank">
+            <strong>Prédiction des Prix de Maison</strong>
+          </a>
+        </summary>
+        <samp>
+          Un projet de régression pour prédire les prix des maisons en fonction de facteurs comme la taille, le nombre de chambres et la localisation, en utilisant des techniques comme la régression linéaire.
+        </samp>
+      </details>
     </ul>
   </div>
 </div>
-
 
 <div align="center">
   <h4>💻 <strong>Projets Full Stack</strong></h4>
   <h6 align="center">🔍 Ces projets couvrent à la fois le front-end et le back-end pour créer des applications web complètes et fonctionnelles.</h6>
   <div align="left">
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
-      <li>🍕 <a href="https://github.com/issaniang5/Application-Livraison-De-Nourriture" target="_blank"><strong>Application Livraison de Nourriture</strong></a>: Une application full stack de livraison de nourriture qui permet aux utilisateurs de commander des repas en ligne. Ce projet utilise React pour le front-end et Node.js/Express avec MongoDB pour le back-end.</li>
-      <li>🚗 <a href="https://github.com/issaniang5/Location-de-Voitures-MERN" target="_blank"><strong>Location de Voitures MERN</strong></a>: Une application MERN stack pour la location de voitures, permettant aux utilisateurs de réserver des voitures en ligne. Ce projet utilise React pour le front-end et Node.js/Express avec MongoDB pour le back-end.</li>
-      <li>🌤️ <a href="https://github.com/issaniang5/Application-meteo-MERN" target="_blank"><strong>Application Météo MERN</strong></a>: Une application full stack qui permet aux utilisateurs de consulter la météo en temps réel en fonction de leur localisation. Ce projet utilise React pour le front-end et Node.js/Express avec OpenWeather API pour le back-end.</li>
-      <li>🎓 <a href="https://github.com/issaniang5/Application-de-Gestion-des-Etudiants" target="_blank"><strong>Application de Gestion des Étudiants</strong></a>: Une application full stack de gestion des étudiants qui permet de suivre les informations académiques et personnelles des étudiants. Ce projet utilise React pour le front-end et Node.js/Express avec MongoDB pour le back-end.</li>
+      <details>
+        <summary>🍕 
+          <a href="https://github.com/issaniang5/Application-Livraison-De-Nourriture" target="_blank">
+            <strong>Application Livraison de Nourriture</strong>
+          </a>
+        </summary>
+        <samp>
+          Une application full stack de livraison de nourriture qui permet aux utilisateurs de commander des repas en ligne. Ce projet utilise React pour le front-end et Node.js/Express avec MongoDB pour le back-end.
+        </samp>
+      </details>
+      <details>
+        <summary>🚗 
+          <a href="https://github.com/issaniang5/Location-de-Voitures-MERN" target="_blank">
+            <strong>Location de Voitures MERN</strong>
+          </a>
+        </summary>
+        <samp>
+          Une application MERN stack pour la location de voitures, permettant aux utilisateurs de réserver des voitures en ligne. Ce projet utilise React pour le front-end et Node.js/Express avec MongoDB pour le back-end.
+        </samp>
+      </details>
+      <details>
+        <summary>🌤️ 
+          <a href="https://github.com/issaniang5/Application-meteo-MERN" target="_blank">
+            <strong>Application Météo MERN</strong>
+          </a>
+        </summary>
+        <samp>
+          Une application full stack qui permet aux utilisateurs de consulter la météo en temps réel en fonction de leur localisation. Ce projet utilise React pour le front-end et Node.js/Express avec OpenWeather API pour le back-end.
+        </samp>
+      </details>
+      <details>
+        <summary>🎓 
+          <a href="https://github.com/issaniang5/Application-de-Gestion-des-Etudiants" target="_blank">
+            <strong>Application de Gestion des Étudiants</strong>
+          </a>
+        </summary>
+        <samp>
+          Une application full stack de gestion des étudiants qui permet de suivre les informations académiques et personnelles des étudiants. Ce projet utilise React pour le front-end et Node.js/Express avec MongoDB pour le back-end.
+        </samp>
+      </details>
     </ul>
   </div>
 </div>
+
 
 <hr/>
 
