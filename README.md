@@ -138,7 +138,7 @@ internationale m'a permis de cultiver une grande adaptabilité et une ouverture 
 
 <div align="center">
   <h4>💻 <strong>Projets Full Stack</strong></h4>
-  <h6 align="center">🔍 Ces projets couvrent à la fois le front-end et le back-end pour créer des applications web complètes et fonctionnelles. 🔍</h6>
+  <h6 align="center">🔍 Ces projets couvrent à la fois le front-end et le back-end pour créer des applications web complètes et fonctionnelles.</h6>
   <div align="left">
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
       <details>
