@@ -27,6 +27,56 @@ internationale m'a permis de cultiver une grande adaptabilité et une ouverture 
 
 <h3 align="left">🚀 Projets</h3>
 
+
+<div align="center">
+  <h4>🤖 <strong>Projets en Intelligence Artificielle</strong></h4>
+  <h6 align="center">🔍 Les projets en IA se concentrent sur l'utilisation de ces technologies de pointe pour relever les défis du monde réel</h6>
+  <div align="left">
+  <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
+      <details>
+        <summary> 📊 
+          <a href="https://github.com/issaniang5/detection-objets-ai" target="_blank">
+            <strong>Détection d'Objets par IA</strong>
+          </a> 
+        </summary>
+        <samp>
+          Un projet d'intelligence artificielle utilisant des réseaux de neurones convolutifs (CNN) pour détecter des objets dans des images ou des vidéos en temps réel. Ce modèle est alimenté par la bibliothèque ML5.js, permettant une détection d'objets sur le Web.
+        </samp>
+      </details>
+     <details>
+      <summary>  ✍️
+        <a href="https://github.com/your-repository-link" target="_blank">
+          <strong>Reconnaissance de Chiffres Manuscrits par IA</strong>
+        </a>
+      </summary>
+       <samp>
+       Un projet utilisant des réseaux de neurones pour reconnaître et classifier les chiffres manuscrits (ex. : le jeu de données MNIST) à l'aide de bibliothèques telles que TensorFlow et Keras.
+       </samp>
+     </details>
+      <details>
+    <summary> 🖼️ 
+      <a href="https://github.com/your-repository-link" target="_blank">
+        <strong>Conversion Image en Texte avec IA</strong>
+      </a>
+      </summary>
+      <samp>
+      Un projet qui utilise des modèles d'intelligence artificielle pour convertir des images contenant du texte en texte brut, facilitant ainsi l'extraction d'informations à partir d'images.
+        </samp>
+      </details> 
+    <details>
+      <summary> 💬
+        <a href="https://github.com/issaniang5/ChatbotIA" target="_blank">
+          <strong>ChatbotIA</strong>
+        </a> 
+      </summary>
+      <samp>
+        Un projet de chatbot basé sur l'IA qui utilise des modèles de traitement du langage naturel pour fournir des réponses et mener des conversations avec les utilisateurs de manière autonome.
+      </samp>
+    </details>
+    </ul>
+  </div>
+</div>
+
 <div align="center">
   <h4>📊 <strong>Projets en Science des Données</strong></h4>
   <h6 align="center">🔍 Analyser des ensembles de données, créer des modèles d'apprentissage automatique et travailler avec les données pour en extraire des informations significatives.</h6>
